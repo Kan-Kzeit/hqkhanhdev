@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kan
 - 👀 I’m a freelancer Solar2D Game Developer
-- ✨ Hourly rate: 10$-25$/hour
 - 📫 Contact me: hqkhanhit@gmail.com
 
 <!---
