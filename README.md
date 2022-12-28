@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kan
-- 👀 I’m a freelancer Solar2D Game Developer
+- 👀 I’m a freelancer Game Developer
 - 📫 Contact me: hqkhanhit@gmail.com
 - Buy a Coffee for me: Ko-fi.com/kandev
 
